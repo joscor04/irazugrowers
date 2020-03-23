@@ -1,0 +1,33 @@
+title: "irazu Growers"
+url: https://irazugrowers.github.io
+subtitle: wir laufen noch immer
+description: Birgit, Dominic, Stefan und Steve und ihre 3 Schweinehunde trainieren auch in Season 2 munter weiter.
+author: Birgit, Dominic, Stefan und Steve
+email: feedback@3-schweinehun.de
+keywords: [Schweinehunde]
+itunes_categories: ["Sports &amp; Recreation"]
+
+itunes_url: http://itunes.apple.com/de/podcast/titel/id123456789
+panoptikum_url: https://panoptikum.io/podcasts/123456
+
+episodes_per_feed_page: 100
+# Date can be localized via date_de.rb plugin
+date_format: "ordinal"
+
+twitter_nick: 3schweinehunde
+language: de
+explicit: 'no'  # 'yes'/'no'/clean
+license: CC BY 4.0
+license_url: https://creativecommons.org/licenses/by/4.0/
+license_image_url: https://i.creativecommons.org/l/by/4.0/88x31.png
+
+## Itunes link ###########################################################
+# itunes_url: "https://itunes.apple.com/at/podcast/myname/id#myid#"
+## Isso comments #########################################################
+use_isso: no # set to 'yes' to include isso comments form
+
+plugins: [jekyll-octopod]
+theme: jekyll-bootflat
+exclude: [README.md, LICENSE]
+
+future: false
