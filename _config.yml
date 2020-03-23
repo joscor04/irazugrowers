@@ -26,10 +26,9 @@ license_image_url: https://i.creativecommons.org/l/by/4.0/88x31.png
 ## Isso comments #########################################################
 use_isso: no # set to 'yes' to include isso comments form
 plugins:
-  - jekyll-remote-theme
+
   - jekyll-octopod
 
-remote_theme: benbalter/retlab
 exclude: [README.md, LICENSE]
 theme: cayman
 future: false
