@@ -25,9 +25,11 @@ license_image_url: https://i.creativecommons.org/l/by/4.0/88x31.png
 # itunes_url: "https://itunes.apple.com/at/podcast/myname/id#myid#"
 ## Isso comments #########################################################
 use_isso: no # set to 'yes' to include isso comments form
+plugins:
+  - jekyll-remote-theme
+  - jekyll-octopod
 
-plugins: [jekyll-octopod]
-theme: jekyll-bootflat
+remote_theme: benbalter/retlab
 exclude: [README.md, LICENSE]
 
 future: false
