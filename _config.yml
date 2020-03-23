@@ -31,7 +31,7 @@ plugins:
 
 remote_theme: benbalter/retlab
 exclude: [README.md, LICENSE]
-theme:minimal
+theme: minimal
 future: false
 
 theme: jekyll-theme-cayman
