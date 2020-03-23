@@ -33,3 +33,5 @@ remote_theme: benbalter/retlab
 exclude: [README.md, LICENSE]
 
 future: false
+
+theme: jekyll-theme-cayman
